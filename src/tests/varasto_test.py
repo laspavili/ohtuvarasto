@@ -120,4 +120,6 @@ class TestVarasto(unittest.TestCase):
         
         self.assertAlmostEqual(huono.tilavuus, 0)
 
+        #testi aloitetaan negatiivisella saldolla
+
     
