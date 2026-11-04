@@ -1,2 +1,2 @@
 # ohtuvarasto
-[![CI](https://github.com/laspavili/ohtuvarasto/actions/workflows/main.yml/badge.svg)]
+[![CI](https://github.com/laspavili/ohtuvarasto/actions/workflows/main.yml/badge.svg)](https://github.com/laspavili/ohtuvarasto/actions/workflows/main.yml)
